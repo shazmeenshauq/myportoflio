@@ -393,7 +393,7 @@ animation-fill-mode: forwards;
 }
 
 #work-done .projects img{
-  width: 250px;
+  width: 100%;
   border: 1px seagreen solid;
   position: relative;
   color:darkseagreen;
